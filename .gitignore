@@ -1,0 +1,10 @@
+# Things to ignore:
+
+# Mac OS:
+.DS_Store
+
+# Jupyter Notebooks Checkpoints:
+.ipynb_checkpoints
+
+# Data Folder (2 much info):
+/data
