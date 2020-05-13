@@ -10,7 +10,7 @@ I will be looking into ranked games of the best players of Korea. The goal is to
 
 The games which will be looked at are in the **Challenger/Grand Master/Master-Tier**. They are made up of approximately $0.05%$ (0.0091%/0.019%/0.028%) of all the players which are playing ranked games in Korea. (Further information: https://www.leagueofgraphs.com/rankings/rank-distribution/kr)
 
-# .1 Read and preparing the DataFrames:
+# 1. Read and preparing the DataFrames:
 
 
 ## 1.1 Champion and Item Descriptions
